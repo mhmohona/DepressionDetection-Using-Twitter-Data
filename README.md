@@ -30,8 +30,9 @@ If signs of depression has been detected, then it would be desirable to suggest 
 We also aim to provide a dataset that is specifically designed for depression identification based on tweets. Our research so far shows such data is not readily available, and proves to be a major stumbling block in the development of this project.
 
 
-![diagram](https://user-images.githubusercontent.com/33187812/63684436-30269900-c7fd-11e9-8e9f-4592879bffde.jpg)
-
+<p align="center">
+  <img width="489" height="355" src="https://user-images.githubusercontent.com/33187812/64063863-94c96580-cbfa-11e9-91be-b9b7bc6496e7.png">
+</p>
 
 ##  Dataset Construction <a name="dataset"></a>
 
@@ -117,7 +118,9 @@ Aarthi Alagammai | @Aarthi Alagammai
 Munira Omar | @Munira Omar
 Marwa Qabeel | @Marwa
 
-![Team depression-detection](https://user-images.githubusercontent.com/14244685/63355476-00543d00-c388-11e9-961c-71f4bc01162b.png)
+<p align="center">
+  <img width="708" height="382" src="https://user-images.githubusercontent.com/14244685/63355476-00543d00-c388-11e9-961c-71f4bc01162b.png">
+</p>
 
 ## Resources<a name="resources"></a>
 - Anne Bonner's Medium article [You Are What You Tweet](https://towardsdatascience.com/you-are-what-you-tweet-7e23fb84f4ed).
